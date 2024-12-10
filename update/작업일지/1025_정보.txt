@@ -1,0 +1,10 @@
+https://www.data.go.kr/data/15084084/openapi.do#tab_layer_detail_function
+날씨 데이터 API
+https://github.com/niklascp/bus-arrival-convlstm
+
+
+파이토치에서 버스 도착 시간을 예측할 때 사용할 수 있는 좋은 레이어들을 추천해줘 
+지금 사용할 레이어는  CONVLSTM TimeDistributed layer attention layer
+
+ 기상정보 
+저작자 표시해야함
